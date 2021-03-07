@@ -3,6 +3,7 @@
 #' @import rlang
 #' @import ellipsis
 #' @import lifecycle
+#' @importFrom glue as_glue
 NULL
 
 .onLoad <- function(libname, pkgname) {
